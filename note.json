@@ -1,0 +1,14 @@
+{
+  "-1": "Đã hủy || không thành công",
+  "0": "Đang xử lý",
+  "1": [
+    "Hoàn tất",
+    "đang hoạt động",
+    "Đã xác nhận",
+    "đã thanh toán"
+  ],
+  "2": "Đã xác nhận",
+  "3": "đang vận chuyển || Đã hoàn trả",
+  "4": "Chờ nhận",
+  "5": "Yêu cầu hủy đơn"
+}
